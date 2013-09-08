@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Development on trexground </title>
-    <link>http://localhost:1313/tags/development.xml</link>
+    <link>eddytrex.github.io/tags/development.xml</link>
     <language>en-us</language>
     <author>Steve Francia</author>
     <rights>Copyright (c) 2008 - 2013, Steve Francia; all rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Test over Hugo and Bootstrap</title>
-      <link>http://localhost:1313/post/test/</link>
+      <link>eddytrex.github.io/post/test/</link>
       <pubDate>Sat, 07 Sep 2013 00:00:00 UTC</pubDate>
       <author>Steve Francia</author>
-      <guid>http://localhost:1313/post/test/</guid>
+      <guid>eddytrex.github.io/post/test/</guid>
       <description>&lt;h1&gt;TEST&lt;/h1&gt;
 
 &lt;p&gt;This is a test only&lt;/p&gt;
@@ -22,7 +22,7 @@
 
 &lt;p&gt;:)&lt;/p&gt;
 
-&lt;h2&gt;Using&lt;/h2&gt;
+&lt;h2&gt;Hello world&lt;/h2&gt;
 
 &lt;pre&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
 #include &amp;lt;stdlib.h&amp;gt;
