@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Last Corner</title>
+    <link>http://eddytrex.github.io/posts/</link>
+    <description>Recent content in Posts on The Last Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jan 2019 10:44:27 -0600</lastBuildDate>
+    
+	<atom:link href="http://eddytrex.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://eddytrex.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 05 Jan 2019 10:44:27 -0600</pubDate>
+      
+      <guid>http://eddytrex.github.io/posts/hello-world/</guid>
+      <description>Like when you start learning a new programming language. After you learn the basic Syntax, write a program to write in the screen.
+Hello World  here is a picture of local cat Hope write regularly and coherent stories.
+Bye</description>
+    </item>
+    
+  </channel>
+</rss>
